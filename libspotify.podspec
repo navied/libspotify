@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'libspotify'
-  s.version = '12.1.62'
+  s.version = '12.1.64'
   s.author = 'Spotify'
   s.license = 'BSD 3-Clause'
   s.homepage = 'https://github.com/navied/libspotify'
